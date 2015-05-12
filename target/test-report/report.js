@@ -7,14 +7,14 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5459604005,
+  "duration": 9383516490,
   "status": "passed"
 });
 formatter.scenario({
   "line": 8,
-  "name": "Calculate cost of a day",
+  "name": "Calculate the daily rate",
   "description": "",
-  "id": "parking-calculator;calculate-cost-of-a-day",
+  "id": "parking-calculator;calculate-the-daily-rate",
   "type": "scenario",
   "keyword": "Scenario",
   "tags": [
@@ -67,7 +67,7 @@ formatter.match({
   "location": "ParkingCalculatorSteps.givenTheCustomerStartsTheApp()"
 });
 formatter.result({
-  "duration": 1741047871,
+  "duration": 2428057386,
   "status": "passed"
 });
 formatter.match({
@@ -80,28 +80,28 @@ formatter.match({
   "location": "ParkingCalculatorSteps.whenTheCustomerChoosesTheLot(String)"
 });
 formatter.result({
-  "duration": 335323291,
+  "duration": 676058885,
   "status": "passed"
 });
 formatter.match({
   "location": "ParkingCalculatorSteps.whenTheCustomerChoosesEntryDateAndTime()"
 });
 formatter.result({
-  "duration": 181835469,
+  "duration": 952477736,
   "status": "passed"
 });
 formatter.match({
   "location": "ParkingCalculatorSteps.whenTheCustomerChoosesLeavingDateAndTime()"
 });
 formatter.result({
-  "duration": 172244061,
+  "duration": 422077301,
   "status": "passed"
 });
 formatter.match({
   "location": "ParkingCalculatorSteps.whenTheCustomerChoosesToCalculate()"
 });
 formatter.result({
-  "duration": 1053438024,
+  "duration": 839121230,
   "status": "passed"
 });
 formatter.match({
@@ -114,7 +114,7 @@ formatter.match({
   "location": "ParkingCalculatorSteps.thenTheSystemMustShowTheTotalCostOfParking(double)"
 });
 formatter.result({
-  "duration": 41097846,
+  "duration": 14647276843,
   "status": "passed"
 });
 formatter.match({
@@ -127,7 +127,7 @@ formatter.match({
   "location": "ParkingCalculatorSteps.theTimeSpenByTheCustomer(String)"
 });
 formatter.result({
-  "duration": 29048780,
+  "duration": 121709291,
   "status": "passed"
 });
 formatter.scenario({
@@ -182,7 +182,7 @@ formatter.match({
   "location": "ParkingCalculatorSteps.givenTheCustomerStartsTheApp()"
 });
 formatter.result({
-  "duration": 468776957,
+  "duration": 3465464003,
   "status": "passed"
 });
 formatter.match({
@@ -195,39 +195,39 @@ formatter.match({
   "location": "ParkingCalculatorSteps.whenTheCustomerChoosesTheLot(String)"
 });
 formatter.result({
-  "duration": 226635753,
+  "duration": 604371441,
   "status": "passed"
 });
 formatter.match({
   "location": "ParkingCalculatorSteps.whenTheCustomerChoosesEntryDateAndTime()"
 });
 formatter.result({
-  "duration": 180787647,
+  "duration": 414569293,
   "status": "passed"
 });
 formatter.match({
   "location": "ParkingCalculatorSteps.whenTheUserChoosesALeavingDateBeforyEntryDate()"
 });
 formatter.result({
-  "duration": 154245590,
+  "duration": 456313763,
   "status": "passed"
 });
 formatter.match({
   "location": "ParkingCalculatorSteps.whenTheCustomerChoosesToCalculate()"
 });
 formatter.result({
-  "duration": 627581201,
+  "duration": 952429439,
   "status": "passed"
 });
 formatter.match({
   "location": "ParkingCalculatorSteps.thenTheSystemMustShowError()"
 });
 formatter.result({
-  "duration": 33019903,
+  "duration": 123601801,
   "status": "passed"
 });
 formatter.after({
-  "duration": 75456241,
+  "duration": 115090095,
   "status": "passed"
 });
 });

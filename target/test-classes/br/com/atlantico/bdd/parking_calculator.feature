@@ -5,7 +5,7 @@ Feature: Parking Calculator
 
 @enabled
 @start
-Scenario: Calculate cost of a day
+Scenario: Calculate the daily rate
 	Given the customer starts the app 
 	When the customer chooses 'EP' Lot
 	And the customer chooses the Entry date and time
